@@ -263,7 +263,7 @@ export default function Home  (props)  {
     <div className="row wid">
     <div className="col-3 d-flex flex-column justify-content-center align-items-center py-5 text-center ">
         <h2 className='py-3'> <b>SHOP MEN</b> </h2>
-        <button className='btn1 py-2'>VIEW ALL CATEGORIES</button>
+        <button className='btn1 py-2 '>VIEW ALL CATEGORIES</button>
     </div>
     <div className="col-lg-3 col-md-3 col-sm-12 text-center ">
         <div className="over">
